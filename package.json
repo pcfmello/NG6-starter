@@ -1,7 +1,7 @@
 {
-  "name": "ng6-starter",
+  "name": "laravel-todo-list-frontend",
   "version": "0.0.1",
-  "description": "Starter for Angular + ES6 + (Webpack or JSPM)",
+  "description": "Projeto front-end de uma lista de tarefas integrado com o projeto laravel-todo-list-api.",
   "main": "index.js",
   "dependencies": {
     "angular": "^1.5.0",
@@ -67,9 +67,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/angularclass/NG6-starter.git"
+    "url": "https://github.com/pcfmello/laravel-todo-list-frontend.git"
   },
-  "author": "AngularClass",
+  "author": "Paulo Cesar Ferreira de Mello",
   "license": "Apache-2.0",
   "babel": {
     "plugins": [
